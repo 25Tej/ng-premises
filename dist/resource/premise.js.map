@@ -1,0 +1,1 @@
+{"version":3,"file":"premise.js","sourceRoot":"src/","sources":["resource/premise.ts"],"names":[],"mappings":";;AAAA,sDAA+C;AAC/C,2EAAsE;AACtE,MAAM,OAAO,GAAG,KAAK,EAAE,KAAK,EAAE,EAAE;IAC5B,MAAM,SAAS,GAAG,KAAK,CAAC,cAAc,CAAC,aAAa,CAAC;IACrD,MAAM,QAAQ,GAAG,MAAM,IAAA,uCAAiB,EAAC,SAAS,CAAC,CAAC;AACxD,CAAC,CAAC;AACF,OAAO,CAAC,iBAAK,CAAC,CAAC"}
