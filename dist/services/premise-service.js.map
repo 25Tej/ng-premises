@@ -1,1 +1,0 @@
-{"version":3,"file":"premise-service.js","sourceRoot":"src/","sources":["services/premise-service.ts"],"names":[],"mappings":";;;AAAA,yEAA8D;AAE9D,KAAK,UAAU,iBAAiB,CAAC,aAAqB;IAEnD,MAAM,WAAW,GAAG,MAAM,IAAA,+BAAU,EAAC,aAAa,CAAC,CAAC;IACpD,OAAO,WAAW,CAAC;AAEtB,CAAC;AAEQ,8CAAiB"}
